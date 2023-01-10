@@ -1141,23 +1141,12 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-braces@2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/braces/-/braces-2.3.1.tgz#7086c913b4e5a08dbe37ac0ee6a2500c4ba691bb"
-  integrity sha512-SO5lYHA3vO6gz66erVvedSCkp7AKWdv6VcQ2N4ysXfPxdAlxAMMAdwegGGcv1Bqwm7naF1hNdk5d6AAIEHV2nQ==
+braces@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/braces/-/braces-3.0.0.tgz#1d9a1a84daea4606d3a6a03d1fd97cc6bd37d543"
+  integrity sha512-JrED+3ZoiTW3KmWkrajE5zm5Pl69XD1DjItKTX9KS+dsfrge66nho5fAOC+tBwMH5p5bPv97EYm8loTb7mxPKg==
   dependencies:
-    arr-flatten "^1.1.0"
-    array-unique "^0.3.2"
-    define-property "^1.0.0"
-    extend-shallow "^2.0.1"
-    fill-range "^4.0.0"
-    isobject "^3.0.1"
-    kind-of "^6.0.2"
-    repeat-element "^1.1.2"
-    snapdragon "^0.8.1"
-    snapdragon-node "^2.0.1"
-    split-string "^3.0.2"
-    to-regex "^3.0.1"
+    fill-range "^7.0.1"
 
 braces@^2.3.1:
   version "2.3.2"
